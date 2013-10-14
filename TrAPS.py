@@ -1,2 +1,2 @@
-from src import traps
+from TrAPS import traps
 traps.view.startApp()

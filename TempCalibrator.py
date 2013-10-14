@@ -1,2 +1,2 @@
-from src import calib
+from TrAPS import calib
 calib.view.startApp()
